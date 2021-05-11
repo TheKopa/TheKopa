@@ -2,11 +2,17 @@
 TheKopa/TheKopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+ <span>
+  <img align="center" width="400" src="/img_header/unnamed.jpg" alt="Banner TheKopa">
+ </span>
+</p>
+
 <h1>👋 Hi, I’m João Pedro</h1>
 
  - 👨‍💻 I'm currently working full-time at **Proside**
  - 🌱 Learning more about Front-end technologies
- - :toolbox: On a working day, I work with: Ionic Framework, SmartGit, Intellij
+ - :toolbox: On a working day, I work with: `Ionic Framework`, `SmartGit`, `Intellij`
  - ⚙️ I use daily: .ts, .html, .css
  - :heart: **I like anything that involves the web development**
  - 💬 Ask me about **Web Development**
@@ -50,4 +56,10 @@ You can click the Preview link to take a look at your changes.
  <a href="mailto:joaopedrojesus17@gmail.com"> 
   <img src="/social_icons/kisspng-gmail-computer-icons-logo-email-gmail-5abe0b09687ec1.346349251522404105428.jpg" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
  </a>
+</p>
+
+<br/>
+
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=TheKopa" alt="TheKopa"/> 
 </p>
