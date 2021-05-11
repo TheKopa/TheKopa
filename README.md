@@ -1,17 +1,17 @@
+<!---
+TheKopa/TheKopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <h1>👋 Hi, I’m João Pedro</h1>
 
  - 👨‍💻 I'm currently working full-time at **Proside**
  - 🌱 Learning more about Front-end technologies
  - :toolbox: On a working day, I work with: Ionic Framework, SmartGit, Intellij
  - ⚙️ I use daily: .ts, .html, .css
- - :heart: I like anything that involves the web development
- - 💬 Ask me about Web Development
+ - :heart: **I like anything that involves the web development**
+ - 💬 Ask me about **Web Development**
 
-
-<!---
-TheKopa/TheKopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
 ## 🧰 Languages and Tools:
 <p align="center">
